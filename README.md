@@ -4,16 +4,17 @@ Este repositório reúne desafios resolvidos durante a monitoria de Python da fa
 
 ## Índice
 
-- [Desafio 1: Classificador de Título de Jogador (RPG)](#desafio-1-classificador-de-título-de-jogador-rpg)
-- [Desafio 2: (em breve)](#desafio-2-em-breve)
+- [Exercício 1: Classificador de Título de Jogador](#exercício-1-classificador-de-título-de-jogador)
+- [Exercício 2: Verificador de Palíndromos](#exercício-2-verificador-de-palíndromos)
+- [Exercício 3: Contador de Elementos em Lista](#exercício-3-contador-de-elementos-em-lista)
 
 ---
 
-## Desafio 1: Classificador de Título de Jogador (RPG)
+## Exercício 1: Classificador de Título de Jogador
 
 **Arquivo:** `exerc1-jogo.py`
 
-Este desafio propõe a criação de um pequeno sistema de RPG que determina o título de um jogador com base na sua classe, nível e posse de item especial.
+Este exercício propõe a criação de um pequeno sistema de RPG que determina o título de um jogador com base na sua classe, nível e posse de item especial. Parte da aula 2.
 
 ### Regras
 
@@ -52,13 +53,20 @@ Título: Guerreiro Maior.
 
 ---
 
-## Desafio 2: (em breve)
+## Exercício 2: Verificador de Palíndromos
 
-Esta seção será atualizada posteriormente.
+Esta seção será atualizada posteriormente. Parte da aula 3.
 
 ---
 
-## Como executar qualquer desafio
+## Exercício 3: Contador de Elementos em Lista
+
+
+Esta seção será atualizada posteriormente. Parte da aula 3.
+
+---
+
+## Como executar qualquer exercício:
 
 1. Clone o repositório:
    ```bash
