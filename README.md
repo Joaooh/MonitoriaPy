@@ -1,6 +1,6 @@
 # Exercícios - Monitoria de Python
 
-Este repositório reúne desafios resolvidos durante a monitoria de Python da faculdade. Cada exercício propõe a criação de scripts que trabalham com lógica de programação, estruturas de controle, tipos de dados, entre outros conceitos fundamentais.
+Este repositório reúne exercícios classificados como de dificuldade Difícil, resolvidos durante a monitoria de Python da faculdade. Cada exercício propõe a criação de scripts que trabalham com lógica de programação, estruturas de controle, tipos de dados e outros conceitos fundamentais da linguagem.
 
 ## Índice
 
