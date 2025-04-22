@@ -55,14 +55,72 @@ Título: Guerreiro Maior.
 
 ## Exercício 2: Verificador de Palíndromos
 
-Esta seção será atualizada posteriormente. Parte da aula 3.
+**Arquivo:** `exerc2-palindromo.py`
+
+Este exercício propõe a criação de um verificador de palíndromos. O programa recebe uma palavra do usuário, inverte essa palavra utilizando uma lista (ao invés do fatiamento direto com `[::-1]`) e informa se ela é ou não um palíndromo. Parte da aula 3.
+
+### Regras
+
+- Criar uma função que receba uma string como parâmetro
+- Verificar se a string é um palíndromo (ou seja, se ela se mantém igual de trás para frente)
+- Mostrar na tela se a palavra é ou não um palíndromo
+
+### Exemplos
+
+```plaintext
+Digite uma palavra: ovo
+
+O contrário de 'ovo' é 'ovo'.
+É um palíndromo!
+```
+
+```plaintext
+Digite uma palavra: banana
+
+O contrário de 'banana' é 'ananab'.
+Não é um palíndromo!
+```
+
+### Aprendizados
+
+- Manipulação de strings
+- Criação de listas dinâmicas
+- Comparações lógicas
+- Alternativa ao uso de fatiamento com `[::-1]`
 
 ---
 
 ## Exercício 3: Contador de Elementos em Lista
 
+**Arquivo:** `exerc3-contador.py`
 
-Esta seção será atualizada posteriormente. Parte da aula 3.
+Neste exercício, o objetivo é criar uma função que recebe uma lista como entrada e retorna um dicionário com a contagem de quantas vezes cada elemento aparece, finalizando ao inserir 0 como valor. Parte da aula 3.
+
+### Regras
+
+- Criar uma função que receba uma lista
+- Contar e mostrar quantas vezes cada elemento aparece na lista
+- Exibir o resultado no formato de dicionário `{elemento: quantidade}`
+
+### Exemplo
+
+```plaintext
+Digite um número: 1
+Digite um número: 2
+Digite um número: 2
+Digite um número: 4
+Digite um número: 4
+Digite um número: 4
+Digite um número: 0
+{1: 1, 2: 2, 4: 3}
+```
+
+### Aprendizados
+
+- Manipulação de listas
+- Uso de dicionários para contagem
+- Funções definidas pelo usuário
+- Laços de repetição
 
 ---
 
@@ -76,5 +134,5 @@ Esta seção será atualizada posteriormente. Parte da aula 3.
 
 2. Execute o arquivo desejado:
    ```bash
-   python nome_do_arquivo.py
+   python exercX-nome.py
    ```
